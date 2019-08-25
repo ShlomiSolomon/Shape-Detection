@@ -1,5 +1,5 @@
 # Shape-Detection
-computer learning project, I developed a program that receives an image and identifies specific objects and shapes in the picture by mark their arches
+Computer Vision project, program that receives an image and identifies specific objects and shapes in the picture , coloring them and add the shape name too , (color each shape in a specific color and add in front of the shape her name).
 
 
 
